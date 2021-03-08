@@ -10,19 +10,19 @@
     Habilidades:
 </p>
 <p align="left">
-    <a href="https://developer.mozilla.org/es/docs/Web/Guide/HTML/HTML5" target="_blank">
+    <a href="#">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
     </a>
-    <a href="https://developer.mozilla.org/es/docs/Web/CSS">
+    <a href="#">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
     </a>
-    <a href="https://classic.yarnpkg.com/en/">
+    <a href="#">
         <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="yarn">
     </a>
-    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
+    <a href="#">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     </a>
-    <a href="https://www.python.org/">
+    <a href="#">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     </a>
 </p>
