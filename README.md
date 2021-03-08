@@ -4,7 +4,7 @@
 
 > Sou estudante de informática do Ifal Campus Palmeira dos Índios. Atualmente estou com foco no desenvolvimento front-end, conhecendo e explorando ferramentas, além do front-end, estou estudando design UX/UI.
 
-🔭 Recentemente desenvolvi um projeto com apoio da Rocketseat, que foi o [Pomo.fy](pomo-fy.vercel.app/).
+🔭 Recentemente desenvolvi um projeto com apoio da Rocketseat, que foi o [Pomo.fy](pomo.fy).
 
 <p align=""left>
     Habilidades:
