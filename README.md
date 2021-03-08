@@ -1,5 +1,6 @@
-<img src="https://cdn.superprof.com/style/images/landing/categories/8/informatica.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Programer">
-## 💜 Olá, meu nome é <strong>Ítalo Gustavo!</strong>
+<img src="https://cdn.superprof.com/style/images/landing/categories/8/informatica.png" min-width="400px" max-width="500px" width="500px" align="right" alt="Programer">
+
+💜 Olá, meu nome é <strong>Ítalo Gustavo!</strong>
 
 > Sou estudante de informática do Ifal Campus Palmeira dos Índios. Atualmente estou com foco no desenvolvimento front-end, conhecendo e explorando ferramentas, além do front-end, estou estudando design UX/UI.
 
