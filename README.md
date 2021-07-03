@@ -57,5 +57,5 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
     
-    [Snake Animation](https://github.com/yta-ux/yta-ux/blob/output/github-contribution-grid-snake.svg)
+    ![Snake Animation](https://github.com/yta-ux/yta-ux/blob/output/github-contribution-grid-snake.svg)
 <div>
