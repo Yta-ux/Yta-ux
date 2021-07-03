@@ -2,7 +2,7 @@
 
 💜 Olá, meu nome é <strong>Ítalo Gustavo!</strong>
 
-> Sou estudante de informática do Ifal Campus Palmeira dos Índios. Atualmente estou com foco no desenvolvimento front-end, conhecendo e explorando ferramentas, além do front-end, estou estudando design UX/UI.
+> Sou estudante de informática do Ifal Campus Palmeira dos Índios. Atualmente estou com foco no desenvolvimento front-end, conhecendo e explorando ferramentas, além do front-end, tenho grande interesse no design ux/ui.
 
 🔭 Recentemente desenvolvi um projeto para avaliação escolar [intro-css](https://github.com/Yta-ux/intro_css).
 
