@@ -58,4 +58,6 @@
     </a>
     
 <div>
+    
+    ![Snake animation](https://github.com/Yta-ux/Yta-ux/blob/output/github-contribution-grid-snake.svg)
 
