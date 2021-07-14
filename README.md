@@ -56,7 +56,6 @@
      <a href="https://www.instagram.com/yta_gustavo/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
-<div>
-    
-   <img src="https://github.com/yta-ux/yta-ux/blob/output/github-contribution-grid-snake.svg">
+</div>
 
+![Snake](https://github.com/yta-ux/yta-ux/blob/output/github-contribution-grid-snake.svg)
