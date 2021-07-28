@@ -39,6 +39,6 @@
 <h2>Statistics Github</h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yta-ux&theme=radical" width="450px" height="180px" align="center"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yta-ux&hide=html&layout=compact&theme=radical" width="450px height="180px" align="center"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Yta-ux&theme=radical" min-width="350" max-width="420px" width="4200px" height="180px" align="center"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yta-ux&hide=html&layout=compact&theme=radical" min-width="350" max-width="420px width="420px height="180px" align="center"/>
 </p>
