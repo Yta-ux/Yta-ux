@@ -1,4 +1,4 @@
-<img src="Programmer-amico.png" min-width="400px" max-width="800px" width="400px" align="right" alt="Programer">
+<img src="Programmer-amico.svg" min-width="400px" max-width="800px" width="400px" align="right" alt="Programer">
 
 <h2 align="left"> Hi, my name is Ítalo Gustavo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
