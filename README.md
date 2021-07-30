@@ -1,30 +1,31 @@
-<img src="Programmer-amico.svg" min-width="400px" max-width="800px" width="400px" align="right" alt="Programer">
-
+<img src="Programmer-amico.svg" width="200px" align="right" alt="Programer"/>
 <h2 align="left"> Hi, my name is Ítalo Gustavo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 💻 Estudante <em>&</em> Desenvolvedor Frontend <br/>
 🏫 Estudante no curso técnico de informática no Ifal Palmeira dos Índios <br/>
-🖌️ Interesse em design UX/UI <br/>
-
-<h2 align="left">
-    Skills 👨‍💻 
-</h2>
-
-<p align="left">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-
-<h2 align="left">
-   Contact 💬
-</h2>
+🖌️ Interesse em design UX/UI 
 
 <div align="left">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+<!--      <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/> -->
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+    <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/>
+    <img align="center" alt="Linux-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"/>
+</div>
+<br/><br/>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Yta-ux&theme=radical" width="400px" height="180px" align="center"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yta-ux&hide=html&layout=compact&theme=radical" width="400px height="180px" align="center"/>
+</p>
+
+
+##
+
+<div align="center">
      <a href="mailto:itamelo555@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="https://www.linkedin.com/in/%C3%ADtalo-gustavo-310a76207/">
@@ -35,10 +36,4 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
 </div>
-<br/>
-<h2>Statistics Github</h2>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yta-ux&theme=radical" width="400px" height="180px" align="center"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yta-ux&hide=html&layout=compact&theme=radical" width="400px height="180px" align="center"/>
-</p>
+                                                                                                                                   
