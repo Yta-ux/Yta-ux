@@ -1,9 +1,10 @@
 <img src="Programmer-amico.svg" width="200px" align="right" alt="Programer"/>
 <h2 align="left"> Hi, my name is Ítalo Gustavo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-💻 Estudante <em>&</em> Desenvolvedor Frontend <br/>
-🏫 Estudante no curso técnico de informática no Ifal Palmeira dos Índios <br/>
-🖌️ Interesse em design UX/UI 
+💻 Student <em>&</em> Developer Frontend<br/>
+📙 Reader of a lot of fiction - "Life is too hard, a little imagination doesn't kill" <br/>
+🖌️ Interest in design UX/UI <br/>
+🐕 Pet Owner
 
 <div align="left">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
