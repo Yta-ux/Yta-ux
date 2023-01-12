@@ -1,4 +1,4 @@
-<img src="space.png" width="250px" align="right" alt="Programer"/>
+<img src="space.png" width="320px" align="right" alt="Programer"/>
 <h2 align="left"> Hi, my name is Ítalo Gustavo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 💻 Frontend Engineer <em>&</em> Developer Frontend<br/>
@@ -26,12 +26,12 @@
  <br/>
  <br/>
  <br/>
-<div align="center">
+<!-- <div align="center">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=yta-ux&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yta-ux&layout=compact&langs_count=7&theme=react" />
-</div>
- <br/>
- <br/>
+</div> -->
+<!--  <br/>
+ <br/> -->
 
 ##
 
