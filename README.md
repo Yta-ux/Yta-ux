@@ -3,7 +3,6 @@
 
 💻 Frontend Engineer <em>&</em> Developer Frontend<br/>
 📙 Reader of a lot of fiction - "Life is too hard, a little imagination doesn't kill" <br/>
-🐕 Pet Owner
 
  <br/>
 <div align="left">
