@@ -1,6 +1,6 @@
 <img src="space.png" width="320px" align="right" alt="Programer"/>
 <h2 align="left"> Hi, my name is Ítalo Gustavo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
+ 
 💻 FullStack Developer
 
  <br/>
@@ -20,12 +20,14 @@
  <br/>
  <br/>
  <br/>
-<!-- <div align="center">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=yta-ux&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yta-ux&layout=compact&langs_count=7&theme=react" />
-</div> -->
-<!--  <br/>
- <br/> -->
+ <br/>
+
+
+ 
+<div align="center">
+  <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=yta-ux&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="160em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yta-ux&layout=compact&langs_count=7&theme=react" />
+</div> 
 
 ##
 
@@ -39,7 +41,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="https://www.instagram.com/ita_gustavo/" target="_blank">
+     <a href="https://www.instagram.com/italogustavo.dev/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
 </div>
