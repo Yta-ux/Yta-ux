@@ -6,7 +6,7 @@
 
 # Ítalo Gustavo
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=FF8229&center=true&vCenter=true&random=false&width=500&lines=FullStack+Developer;Computer+Science+Student+%40+UFAL;Turning+Coffee+Into+Code+%E2%98%95" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=FF8229&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer;Computer+Science+Student+%40+UFAL;Turning+Coffee+Into+Code+%E2%98%95" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -22,11 +22,9 @@
 
 ```javascript
 const italo = {
-  role: "FullStack Developer",
+  role: "Software Engineer",
   education: "Computer Science @ UFAL | Tech in Informatics @ IFAL",
-  location: "Alagoas, Brazil 🇧🇷",
-  learning: ["Java", "Backend Architecture", "English"],
-  stack: ["React", "Next.js", "Node.js", "NestJS", "TypeScript"],
+  stack: ["Next.js", "NestJS", "TypeScript", "Golang", "Python", "Machine Learing"],
   passion: "Building clean, scalable, and efficient applications"
 };
 ```
@@ -40,14 +38,15 @@ const italo = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a1628?style=flat-square&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a1628?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Next.js](https://img.shields.io/badge/Next.js-0a1628?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-0a1628?style=flat-square&logo=tailwind-css&logoColor=06B6D4)
 ![Java](https://img.shields.io/badge/Java-0D0D0D?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-0a1628?style=flat-square&logo=go&logoColor=00ADD8)
+![Python](https://img.shields.io/badge/Python-0a1628?style=flat-square&logo=python&logoColor=3776AB)
 ![Node.js](https://img.shields.io/badge/Node.js-0D0D0D?style=flat-square&logo=node.js&logoColor=339933)
 ![NestJS](https://img.shields.io/badge/NestJS-0D0D0D?style=flat-square&logo=nestjs&logoColor=E0234E)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0a1628?style=flat-square&logo=scikit-learn&logoColor=F7931E)
+![PyTorch](https://img.shields.io/badge/PyTorch-0a1628?style=flat-square&logo=pytorch&logoColor=EE4C2C)
 ![Docker](https://img.shields.io/badge/Docker-0a1628?style=flat-square&logo=docker&logoColor=2496ED)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a1628?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Firebase](https://img.shields.io/badge/Firebase-0a1628?style=flat-square&logo=firebase&logoColor=FFCA28)
-
 
 </div>
 
