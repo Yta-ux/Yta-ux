@@ -55,10 +55,6 @@ const italo = {
 ## &nbsp;GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=yta-ux&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2d7cc4&icon_color=2d7cc4&text_color=c9d1d9&count_private=true" />
-    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yta-ux&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2d7cc4&icon_color=2d7cc4&text_color=c9d1d9&count_private=true"/>
-  </picture>
   &nbsp;&nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=yta-ux&hide_border=true&background=0D1117&stroke=1a4a7a&ring=2d7cc4&fire=2d7cc4&currStreakLabel=2d7cc4&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
